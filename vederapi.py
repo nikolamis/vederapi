@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "d631fd06eb9c8c97650102dde24e80cb"  #https://home.openweathermap.org/api_keys
+API_KEY = "##########################"  #https://home.openweathermap.org/api_keys
 END_URL = "https://api.openweathermap.org/data/2.5/weather" #api calls - manual
 
 location= input("Please input your location(city): ")
